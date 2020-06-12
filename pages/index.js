@@ -12,7 +12,7 @@ export default function Home({allPostsData}) {
 				<title>{siteTitle}</title>
 			</Head>
 			<section className={utilStyles.headingMd}>
-				<p>
+				<p style={{color:"red"}}>
 					HELLO I AM RICHEST PERSON IN THE WORLD . I WANT TO BE A
 					REPRESENTATIV EOF GOD TO ALL HUMANS. I WANT TO GO TO STAR
 					AND I WANT TO ELIMINATE POVERTY FROM THE EARTH
